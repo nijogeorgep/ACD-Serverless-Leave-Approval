@@ -1,6 +1,6 @@
 {
     "CognitoUserPoolDomain":"nijolaauthdomain",
-    "Region":"us-west-2",
+    "Region":"ap-south-1",
     "S3BucketName":"nijo-acd-la-website-hosting-bucket",
     "StackName":"nijo-acd-la-leave-application-stack"
 }
